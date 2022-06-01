@@ -2,6 +2,7 @@ Body{
     background: #ccc;
     font-family: verdana;
     width: 900px;
+    margin: auto;
 }
 
 #title, .subtitle, .post_title {
@@ -40,6 +41,7 @@ a{
 
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .contacts_list{
