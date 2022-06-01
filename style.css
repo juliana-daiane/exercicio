@@ -1,6 +1,7 @@
 Body{
     background: #ccc;
     font-family: verdana;
+    width: 900px;
 }
 
 #title, .subtitle, .post_title {
